@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://centralcoastkitchenrenovations.com.au/sitemap.xml
